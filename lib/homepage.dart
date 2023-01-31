@@ -58,7 +58,9 @@ class _MyHomePageState extends State<MyHomePage> {
       child: Scaffold(appBar: AppBar(
         backgroundColor: Colors.transparent,
         elevation: 0,
-        title: Text('Check Weather'),
+        title: Text('WeatherToday',
+          style: GoogleFonts.itim(color: Colors.white,),
+        ),
       ),
       backgroundColor: Colors.transparent,
       body: Stack(children:[
@@ -68,8 +70,8 @@ class _MyHomePageState extends State<MyHomePage> {
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Text(
-                "WeatherToday",
-                style: GoogleFonts.itim(color: Colors.white, fontSize: 33),
+                "What's the weather like?",
+                style: GoogleFonts.openSans(color: Colors.white, fontSize: 27),
               ),
 
             ),
