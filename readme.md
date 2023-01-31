@@ -33,6 +33,15 @@ The app consists of the following features:
 
 4. SDG Integration: WeatherToday is related to the United Nations' Sustainable Development Goal 3: Good Health and Well-being. The app aims to contribute to this goal by helping users avoid weather-related health issues and plan their day accordingly.
 
+## Screenshots of the app
+
+![Register](https://user-images.githubusercontent.com/46078999/215802684-a807895b-f385-49fe-bf62-9f9d5669c0a5.png)
+
+![LoginPage](https://user-images.githubusercontent.com/46078999/215802823-498d3e39-5c05-4c35-842a-89d44a2fb320.png)
+
+![homepage](https://user-images.githubusercontent.com/46078999/215805057-70f94ee3-7524-445d-b48c-b829422644b5.png)
+
+![result](https://user-images.githubusercontent.com/46078999/215805089-93bababf-54e4-4c8c-9f6d-d2ec1ecebfdd.png)
 
 ## Color Theme
 
